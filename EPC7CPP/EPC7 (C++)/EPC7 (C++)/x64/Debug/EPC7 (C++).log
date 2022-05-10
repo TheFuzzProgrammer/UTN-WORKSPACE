@@ -1,0 +1,55 @@
+﻿  Source.cpp
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(14,10): error C2065: 'OrderDetail': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(14,3): error C2923: 'std::vector': 'OrderDetail' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(14): message : vea la declaración de 'OrderDetail'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(14,3): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(432): message : vea la declaración de 'std::vector'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(15,12): error C3646: 'provider': especificador de invalidación desconocido
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(15,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(17,10): error C3646: 'status': especificador de invalidación desconocido
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(17,16): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(21,9): error C2061: error de sintaxis: identificador 'Provider'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(29,35): error C2061: error de sintaxis: identificador 'Date'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(35,15): error C3646: 'getDetailByIndex': especificador de invalidación desconocido
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(35,31): error C2059: error de sintaxis: '('
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(37,10): error C2065: 'OrderDetail': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(37,3): error C2923: 'std::vector': 'OrderDetail' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(37): message : vea la declaración de 'OrderDetail'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(37,3): error C2976: 'std::vector': no hay suficientes argumentos de plantilla
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(432): message : vea la declaración de 'std::vector'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(40,10): error C3646: 'getStatus': especificador de invalidación desconocido
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(40,19): error C2059: error de sintaxis: '('
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(40,21): error C2238: símbolos (token) inesperados delante de ';'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(21,8): error C2512: 'std::vector': no hay disponible un constructor predeterminado adecuado
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(432,1): message : vea la declaración de 'std::vector'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(22,24): error C2065: '_number': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(23,10): error C2039: "provider": no es un miembro de "EPC7::Order"
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(11): message : vea la declaración de 'EPC7::Order'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(23,21): error C2065: '_provider': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(24,10): error C2039: "status": no es un miembro de "EPC7::Order"
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(11): message : vea la declaración de 'EPC7::Order'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(24,19): error C2065: '_status': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(38,1): error C2440: 'return': no se puede realizar la conversión de 'std::vector' a 'std::vector'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(38,1): message : No se puede copiar el constructor class 'std::vector' porque hay constructores de copia ambiguos o no hay un constructor de copia disponible
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(52,12): error C3646: 'address': especificador de invalidación desconocido
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(52,19): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(53,16): error C3646: 'contact': especificador de invalidación desconocido
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(53,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(57,34): error C2061: error de sintaxis: identificador 'Address'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(72,20): error C2061: error de sintaxis: identificador 'Address'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(75,24): error C2061: error de sintaxis: identificador 'ContactInfo'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(59,10): error C2039: "address": no es un miembro de "EPC7::Provider"
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(49): message : vea la declaración de 'EPC7::Provider'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(59,20): error C2065: '_address': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(60,10): error C2039: "contact": no es un miembro de "EPC7::Provider"
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(49): message : vea la declaración de 'EPC7::Provider'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(60,20): error C2065: '_contact': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(61,25): error C2065: '_socialReason': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(62,25): error C2065: '_IvaCondition': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(73,11): error C2039: "address": no es un miembro de "EPC7::Provider"
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(49): message : vea la declaración de 'EPC7::Provider'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(73,21): error C2065: '_address': identificador no declarado
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(76,11): error C2039: "contact": no es un miembro de "EPC7::Provider"
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(49): message : vea la declaración de 'EPC7::Provider'
+E:\Trabajos\UTN\EPC7CPP\EPC7 (C++)\EPC7 (C++)\EPC7.h(76,21): error C2065: '_contact': identificador no declarado
